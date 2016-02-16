@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"logging to the debugger");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
